@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Evil Mac
+Type=X-GNOME-Metatheme
+Comment=A tweaked version of Glossy, with some changes to colors and graphics. 
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Evil Mac
+MetacityTheme=Evil Mac
+IconTheme=Industrial
